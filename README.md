@@ -4,4 +4,4 @@ Acest repository conține mai multe aplicații simple. Fiecare aplicație este o
 
 ## Structura Proiectului
 
-- **calculator-simplu-js/**: Un calculator simplu creat folosind HTML, CSS și JavaScript. Permite realizarea operațiilor de bază: adunare, scădere, înmulțire și împărțire.
+- *Fronted**: Un calculator simplu creat folosind HTML, CSS și JavaScript. Permite realizarea operațiilor de bază: adunare, scădere, înmulțire și împărțire.
