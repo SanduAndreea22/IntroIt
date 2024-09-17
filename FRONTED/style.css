@@ -1,0 +1,18 @@
+input[type=text]{
+    color: blue;
+    width: 75%;
+    padding: 10px 25px;
+    margin: 10px;
+
+}
+
+input[type=button]{
+    background-color: aqua;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 25px;
+    margin-top: 20px;
+    width: 25%;
+
+}
